@@ -2,7 +2,7 @@ import { LightningElement } from 'lwc';
 
 export default class Homepage2 extends LightningElement {}
 // <meta charset="UTF-8">
-//<meta name="viewport" content="width=device-width, initial-scale=1"></meta>   
+//<meta name="viewport" content="width=device-width, initial-scale=2"></meta>   
 //<meta name="viewport" content="height=device-height, initial-scale=2"></meta> 
 
 var myIndex = 0;
